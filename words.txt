@@ -1,0 +1,10 @@
+cat
+dog
+bird
+chicken
+donkey
+apple
+cherry
+grapes
+banana
+orange
