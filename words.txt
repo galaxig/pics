@@ -3,7 +3,7 @@ artist
 aspirin
 balloon
 cake 
-café
+cafe
 camp
 doctor 
 dance
