@@ -14,7 +14,7 @@ film
 gorilla 
 garage
 hotel
-Internet
+internet
 judo
 kangaroo 
 kilo
